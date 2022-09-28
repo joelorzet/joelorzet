@@ -81,11 +81,11 @@ El mismo cuenta con un sector de administración en el cual el dueño puede gest
 <li>Facilidad de pagos - pagos con tarjeta de credito mediante Stripe</li>
 </ul>
 
-<img src='./assets/cli.png'/>
+<img src='./assets/sehos.png'/>
 
 <h2> Tambien le compartimos unas imagenes del proyecto</h2>
 
-<img src='./assets/cli-1.png' height=250px> <img src='./assets/cli-2.png' height=250px> <img src='./assets/cli-3.png' height=250px> <img src='./assets/cli-4.png' height=250px>
+<img src='./assets/sehos-1.png' height=250px> <img src='./assets/sehos-2.png' height=250px> <img src='./assets/sehos-3.png' height=250px> <img src='./assets/sehos-4.png' height=250px>
 
 <hr />
 <a href='https://github.com/joelorzet/sehos-client'> 📂 Ver repositorio</a> <a href='https://sehos.netlify.app/home' target='_blank' rel="noreferrer noopener"> 🌐 Ver proyecto </a>
@@ -100,7 +100,7 @@ El mismo cuenta con un sector de administración en el cual el dueño puede gest
 
 ### Algunas imagenes
 
-<img src='./assets/sehos.png' height=150px> <img src='./assets/sehos-1.png' height=150px> <img src='./assets/sehos-2.png' height=150px> <img src='./assets/sehos-3.png' height=150px>
+<img src='./assets/cli.png' height=150px> <img src='./assets/cli-1.png' height=150px> <img src='./assets/cli-4.png' height=150px> <img src='./assets/cli-5.png' height=150px>
 
 <a href='https://github.com/joelorzet/countries-client'> 📂 Ver repositorio</a> <a href='https://countries-app-joelorzet.vercel.app/'> 🌐 Ver proyecto </a>
 
