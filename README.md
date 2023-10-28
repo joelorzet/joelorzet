@@ -1,39 +1,82 @@
 [![Typing SVG](<https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=export+default+JoelOrzet();Welcome+to+my+GitHub+Profile>)](https://git.io/typing-svg)
 
 <h1 align="center">Hola 👋, soy Joel Orzet</h1>
-<h3 align="center">Web Developer de Argentina</h3>
+<h3 align="center" style="margin-bottom: 35px;">Web Developer de Argentina</h3>
 
 - 💬 ¿Quién soy yo? **Soy un apasionado por el desarrollo web y la logica de programación con el deseo constante de aprender y trabajar en equipo.**
 
 - 🤔 Algunos de mis hobbies: **Video juegos online, Tocar la guitarra, Escuchar música, Cocinar 😀**
 
-- 📝 ¿Quieres contactarme? **Puedes hacerlo a través de Linkedin https://www.linkedin.com/in/joelorzet/ o vía email joelorzt@gmail.com**
+- 📝 ¿Quieres contactarme? **Puedes hacerlo a través de Linkedin [in/joelorzet](https://www.linkedin.com/in/joelorzet) o vía email [joelorzt@gmail.com](mailto:joelorzt@gmail.com)**
 
-- 📫 Estudios actuales **Estoy iniciando algo de Typescript**
+<hr />
+<h3>- Contacto:</h3>
+
+✉️ **Email:** [joelorzt@gmail.com](mailto:joelorzt@gmail.com)  
+🌐 **LinkedIn:** [in/joelorzet](https://www.linkedin.com/in/joelorzet)  
+🌐 **GitHub:** [github.com/joelorzet](https://github.com/joelorzet)  
+🌐 **Portfolio:** [joel-orzet.netlify.app](https://joel-orzet.netlify.app)
 
 ---
 
-<h3 align="left">Contacta conmigo:</h3>
-<p align="left">
- <h2>Correo: <a href="mailto:joelorzt@gmail.com">joelorzt@gmail.com</a> </h2> 
- <h2>LinkedIn:  <a href='https://www.linkedin.com/in/joelorzet/' target='_blank'>in/joelorzet/</a> </h2>
-</p>
+### - Principales Habilidades:
+
+<table style="border-collapse: collapse; border: 0;">
+  <tr>
+    <td><img src="https://img.icons8.com/color/36/000000/angularjs.png" width="18" height="18" style="vertical-align: middle;"></td>
+    <td><b>Angular</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.icons8.com/color/36/000000/docker.png" width="18" height="18" style="vertical-align: middle;"></td>
+    <td><b>Docker</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.icons8.com/color/36/000000/nestjs.png" width="18" height="18" style="vertical-align: middle;"></td>
+    <td><b>NestJs</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.icons8.com/color/36/000000/test-tube.png" width="18" height="18" style="vertical-align: middle;"></td>
+    <td><b>Testing (Cypress, Jest, Supertest)</b></td>
+  </tr>
+</table>
 
 <hr />
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">- Herramientas y lenguajes con los que he trabajado: </h3>
 
+<h4>* Lenguajes de programación y marcado:</h4>
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-React.js-000000?style=flat&logo=react&logoColor=00c8ff">
-<img src="https://img.shields.io/badge/-Redux.js-764ABC?style=flat&logo=redux&logoColor=white "> <img src='https://img.shields.io/badge/-MaterialUI-1DB8B1?logo=mui&logoColor=ffffff'>
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 
-<img src="https://img.shields.io/badge/-Express.js-787878?style=flat&logo=Express&logoColor=white"> <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/-PostgreSQL-31648C?style=flat&logo=postgresql&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Sequelize-399AF3?style=flat&logo=sequelize&logoColor=FFFFFF">
+<h4>* Bibliotecas y Frameworks Frontend:</h4>
+<img src="https://img.shields.io/badge/-React.js-000000?style=flat&logo=react&logoColor=00c8ff">
+<img src="https://img.shields.io/badge/-Redux.js-764ABC?style=flat&logo=redux&logoColor=white">
+<img src="https://img.shields.io/badge/-MaterialUI-1DB8B1?style=flat&logo=material-ui&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=ffffff">
 
-<img src='https://img.shields.io/badge/-Github-000?logo=github'> <img src='https://img.shields.io/badge/-Git-orange?logo=git&logoColor=ffffff'>
-<img src='https://img.shields.io/badge/-Vercel-1E1B1D?logo=vercel'>
+<h4>* Backend y Servidores:</h4>
+<img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/-Express.js-787878?style=flat&logo=express&logoColor=white">
 
-<img src= 'https://img.shields.io/badge/-VS%20Code-blue?logo=visualstudio'>
+<h4>* Base de Datos:</h4>
+<img src="https://img.shields.io/badge/-TypeORM-E83524?style=flat&logo=typeorm&logoColor=white">
+<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/-Sequelize-399AF3?style=flat&logo=sequelize&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-PostgreSQL-31648C?style=flat&logo=postgresql&logoColor=FFFFFF">
+
+<h4>* Herramientas de Desarrollo:</h4>
+<img src="https://img.shields.io/badge/-Github-000?style=flat&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white">
+
+<h4>* Servicios y Plataformas AWS:</h4>
+<img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white">
+<img src="https://img.shields.io/badge/-Cognito-00A9E0?style=flat&logo=amazon-cognito&logoColor=white">
+<img src="https://img.shields.io/badge/-Amplify-FF6600?style=flat&logo=aws-amplify&logoColor=white">
+<img src="https://img.shields.io/badge/-App%20Runner-FF9900?style=flat&logo=aws-amplify&logoColor=white">
 
 # 👨‍💻 Mis proyectos:
 
